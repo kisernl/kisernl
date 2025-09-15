@@ -1,4 +1,4 @@
-# Noah Kiser
+# 🏔️ Noah Kiser
 `full-stack engineer`
 
 I’m a software engineer who enjoys building apps, simplifying complexity, making JS games for my kids, and writing python scripts for anything that could marginally benefit my life. I build for work + I build for fun... and the venn diagram of those two confirms that software is my sweet spot.  
