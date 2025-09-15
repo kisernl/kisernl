@@ -4,6 +4,10 @@
 I’m a software engineer who enjoys building apps, simplifying complexity, making JS games for my kids, and writing python scripts for anything that could marginally benefit my life. I build for work + I build for fun... and the venn diagram of those two confirms that software is my sweet spot.  
 
 ---
+
+## Toolbox:
+
+<img src="https://api.iconify.design/cib:react.svg" width="40" height="40">&emsp;<img src="https://api.iconify.design/teenyicons:typescript-outline.svg" width="40" height="40">&emsp;<img src="https://api.iconify.design/ri:tailwind-css-fill.svg" width="40" height="40">&emsp;<img src="https://api.iconify.design/akar-icons:python-fill.svg" width="40" height="40">&emsp;<img src="https://api.iconify.design/mdi:language-php.svg" width="40" height="40">&emsp;<img src="https://api.iconify.design/meteor-icons:laravel.svg" width="40" height="40">&emsp;<img src="https://api.iconify.design/fa7-brands:golang.svg" width="40" height="40">
 <!--
 ## A few sample projects
 
