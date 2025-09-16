@@ -26,5 +26,5 @@ I’m a software engineer who enjoys building apps, simplifying complexity, maki
 
 ---
 ## A couple more FUN Projects
-- **Donut-themed Javascript Games** (coding project to engage my three sons!)
+- **[Donut-themed Javascript Games](https://donut-games.vercel.app/)** (coding project to engage my three sons!)
 - **Options Calculator** (Python/Django backend + React frontend)
