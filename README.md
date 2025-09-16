@@ -22,7 +22,7 @@ I’m a software engineer who enjoys building apps, simplifying complexity, maki
 - **[Brewzle Mobile App](https://brewzle.com/)** (React Natve + PHP/Laravel)
 - **[trystillness.com](https://trystillness.com/)** (contemplative/meditation full-stack app)
 - **[Open Source Forms API](https://github.com/kisernl/oss-forms-api)** (created)
-- **Open Source Podcast Downloader** (contributor)
+- **[Open Source Podcast Downloader](https://github.com/kisernl/podcast-downloader)** (contributor)
 
 ---
 ## A couple more FUN Projects
