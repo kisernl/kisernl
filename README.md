@@ -12,8 +12,9 @@ I’m a software engineer who enjoys building apps, simplifying complexity, maki
 ---
 
 ## Current Role
-- **Software Engineer @ [ComputeSDK](https://github.com/computesdk)**  
-  Building a free and open-source toolkit for running other people's code in your applications (on the founding engineering team).  
+- **Software Engineer @ [ComputeSDK](https://github.com/computesdk)**  (on the founding engineering team)
+
+  Building a free and open-source toolkit for running other people's code in your applications.  
 
 ---
 
@@ -24,6 +25,6 @@ I’m a software engineer who enjoys building apps, simplifying complexity, maki
 - **Open Source Podcast Downloader** (contributor)
 
 ---
-## Other Projects
+## A couple more FUN Projects
 - **Donut-themed Javascript Games** (coding project to engage my three sons!)
 - **Options Calculator** (Python/Django backend + React frontend)
