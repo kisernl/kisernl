@@ -14,13 +14,12 @@ I’m a software engineer who enjoys building apps, simplifying complexity, maki
 ## Current Role
 - **Software Engineer @ [ComputeSDK](https://github.com/computesdk)**  
   Building a free and open-source toolkit for running other people's code in your applications (on the founding engineering team).  
-- **Software Engineer (contract) @ [Brewzle](https://brewzle.com/)**  
-  Full-stack engineer on a React Native mobile app with a PHP/Laravel backend.  
 
 ---
 
 ## Current Projects
-- **Brewzle Mobile App (React Natve + PHP/Laravel**
+- **[Brewzle Mobile App](https://brewzle.com/)** (React Natve + PHP/Laravel)
+- **[trystillness.com](https://trystillness.com/)** (contemplative/meditation full-stack app)
 - **Open Source Forms API** (created)
 - **Open Source Podcast Downloader** (contributor)
 
