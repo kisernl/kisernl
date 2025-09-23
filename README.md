@@ -12,7 +12,7 @@ I’m a software engineer who enjoys building apps, simplifying complexity, maki
 ---
 
 ## Current Role
-- **Software Engineer @ [ComputeSDK](https://github.com/computesdk)**
+- **Software Engineer @ [ComputeSDK](https://www.computesdk.com/)**
 
   Building a free and open-source toolkit for running other people's code in your applications.  
 
