@@ -7,8 +7,6 @@ I’m a software engineer who enjoys building apps, simplifying complexity, maki
 
 ## Toolbox:
 
-## Toolbox:
-
 <p>
   <img src="https://api.iconify.design/cib:react.svg?color=%23888888" width="40" height="40">&emsp;
   <img src="https://api.iconify.design/teenyicons:typescript-outline.svg?color=%23888888" width="40" height="40">&emsp;
