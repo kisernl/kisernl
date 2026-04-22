@@ -6,8 +6,19 @@ I’m a software engineer who enjoys building apps, simplifying complexity, maki
 ---
 
 ## Toolbox:
-
-<p align="left"><img src="https://api.iconify.design/cib:react.svg?color=%23888888" width="40" height="40">&emsp;<img src="https://api.iconify.design/teenyicons:typescript-outline.svg?color=%23888888" width="40" height="40">&emsp;<img src="https://api.iconify.design/tdesign:html5-filled.svg?color=%23888888" width="40" height="40">&emsp;<img src="https://api.iconify.design/tdesign:css3.svg?color=%23888888" width="40" height="40">&emsp;<img src="https://api.iconify.design/teenyicons:javascript-solid.svg?color=%23888888" width="40" height="40">&emsp;<img src="https://api.iconify.design/ri:tailwind-css-fill.svg?color=%23888888" width="40" height="40">&emsp;<img src="https://api.iconify.design/akar-icons:python-fill.svg?color=%23888888" width="40" height="40">&emsp;<img src="https://api.iconify.design/ri:php-fill.svg?color=%23888888" width="40" height="40">&emsp;<img src="https://api.iconify.design/meteor-icons:laravel.svg?color=%23888888" width="40" height="40">&emsp;<img src="https://api.iconify.design/mdi:git.svg?color=%23888888" width="40" height="40">&emsp;<img src="https://api.iconify.design/fa7-brands:docker.svg?color=%23888888" width="40" height="40"></p>
+<table><tr>
+<td><img src="https://api.iconify.design/cib:react.svg?color=%23888888" width="40" height="40"></td>
+<td><img src="https://api.iconify.design/teenyicons:typescript-outline.svg?color=%23888888" width="40" height="40"></td>
+<td><img src="https://api.iconify.design/tdesign:html5-filled.svg?color=%23888888" width="40" height="40"></td>
+<td><img src="https://api.iconify.design/tdesign:css3.svg?color=%23888888" width="40" height="40"></td>
+<td><img src="https://api.iconify.design/teenyicons:javascript-solid.svg?color=%23888888" width="40" height="40"></td>
+<td><img src="https://api.iconify.design/ri:tailwind-css-fill.svg?color=%23888888" width="40" height="40"></td>
+<td><img src="https://api.iconify.design/akar-icons:python-fill.svg?color=%23888888" width="40" height="40"></td>
+<td><img src="https://api.iconify.design/ri:php-fill.svg?color=%23888888" width="40" height="40"></td>
+<td><img src="https://api.iconify.design/meteor-icons:laravel.svg?color=%23888888" width="40" height="40"></td>
+<td><img src="https://api.iconify.design/mdi:git.svg?color=%23888888" width="40" height="40"></td>
+<td><img src="https://api.iconify.design/fa7-brands:docker.svg?color=%23888888" width="40" height="40"></td>
+</tr></table>
 
 <!-- <img src="https://api.iconify.design/fa7-brands:golang.svg?color=%23888888" width="40" height="40">&emsp; -->
 
